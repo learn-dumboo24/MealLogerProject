@@ -1,0 +1,55 @@
+# Node modules and package lock
+node_modules
+package-lock.json
+yarn.lock
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment files
+.env
+.env.*
+
+# Expo folders
+.expo
+.expo-shared
+
+# iOS and Android build files
+android
+ios
+*.keystore
+
+# Version control and editor settings
+.git
+.gitignore
+.idea
+.vscode
+
+# Build output
+dist
+build
+web-build
+
+# System files
+.DS_Store
+Thumbs.db
+
+# OS junk
+__MACOSX
+
+# Archives
+*.tar.gz
+*.zip
+
+# Inspect output
+inspect-output
+
+# Any previous test data
+*.db
+*.sqlite
+*.bak
+
+# Desktop folders or any high-risk folders (IMPORTANT!)
+../*
